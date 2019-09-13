@@ -1,0 +1,64 @@
+{
+    "name": "nativescript-background-http",
+    "version": "4.0.0",
+    "main": "background-http",
+    "typings": "index.d.ts",
+    "nativescript": {
+        "platforms": {
+            "android": "6.0.0",
+            "ios": "6.0.0"
+        }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NativeScript/nativescript-background-http"
+    },
+    "url": "https://github.com/NativeScript/nativescript-background-http/issues",
+    "scripts": {
+        "tsc": "tsc -skipLibCheck",
+        "build": "npm i && tsc",
+        "postclone": "npm i && node scripts/postclone.js && cd ../demo && npm i && cd ../src && npm run plugin.link",
+        "test.android": "npm i && npm run tsc && npm run tslint && cd ../demo && tns build android && tns test android --justlaunch",
+        "test.ios": "npm i && npm run tsc && npm run tslint && cd ../demo && tns build ios && tns test ios --justlaunch",
+        "tslint": "cd .. && tslint \"**/*.ts\" --config tslint.json --exclude \"**/node_modules/**\"",
+        "plugin.link": "npm link && cd ../demo && npm link nativescript-background-http && cd ../src",
+        "plugin.tscwatch": "npm run tsc -- -w",
+        "demo.ios": "npm i && npm run tsc && cd ../demo && tns run ios",
+        "demo-angular.ios": "npm i && npm run tsc && cd ../demo-angular && tns run ios",
+        "demo-vue.ios": "npm i && npm run tsc && cd ../demo-vue && tns run ios",
+        "demo.android": "npm i && npm run tsc && cd ../demo && tns run android",
+        "demo-angular.android": "npm i && npm run tsc && cd ../demo-angular && tns run android",
+        "demo-vue.android": "npm i && npm run tsc && cd ../demo-vue && tns run android",
+        "demo.reset": "cd ../demo && rimraf platforms",
+        "demo-angular.reset": "cd ../demo-angular && rimraf platforms",
+        "server": "cd ../demo-server && npm run start",
+        "plugin.prepare": "npm run tsc && cd ../demo && tns plugin remove nativescript-background-http && tns plugin add ../src",
+        "clean": "cd ../demo && rimraf hooks node_modules platforms && cd ../src && rimraf node_modules && npm run plugin.link",
+        "ci.tslint": "npm i && tslint '**/*.ts' --config '../tslint.json' --exclude '**/node_modules/**'",
+        "prepare": "node scripts/prepare.js"
+    },
+    "keywords": [
+        "background",
+        "http",
+        "upload",
+        "download",
+        "NativeScript"
+    ],
+    "author": {
+        "name": "NativeScript Team"
+    },
+    "bugs": {
+        "url": "https://github.com/NativeScript/nativescript-background-http/issues"
+    },
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/NativeScript/nativescript-background-http/issues",
+    "devDependencies": {
+        "tns-core-modules": "^6.0.0",
+        "tns-platform-declarations": "^6.0.0",
+        "typescript": "~3.1.6",
+        "rimraf": "~2.6.2",
+        "semver": "~5.6.0",
+        "tslint": "~5.11.0"
+    },
+    "bootstrapper": "nativescript-plugin-seed"
+}

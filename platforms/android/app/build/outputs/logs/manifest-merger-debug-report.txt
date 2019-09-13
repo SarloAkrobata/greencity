@@ -1,0 +1,429 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/4b572913f1a424e7576b45966b745c44/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/8a90935574f82694cec42fb7c78743b1/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/3bab9bb899029c23f3bc6bb6d4339d56/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/52503712106186570054847811294b4f/jetified-play-services-location-11.4.0/AndroidManifest.xml:2:1-5:12
+MERGED from [jp.wasabeef:fresco-processors:2.1.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/92a5157cc7e53680ff40a12aec650332/fresco-processors-2.1.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e03b6edff34481a1d9c6a5767c16cfbd/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/dca3fd0887062297fd1d3c6946aaa3bf/animated-gif-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/ac922daef181581ca41118461ecc252e/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.orhanobut:hawk:2.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/3fb20293bab20d6c379c4d7a7ba3936c/hawk-2.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/d870cb23017dba92c403b07d3cb52354/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/cebeb8a9d9ddebdb3ed2da53e0535524/jetified-play-services-tasks-11.4.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e6fac359cc7ae06c7d2073459e0ec266/jetified-play-services-basement-11.4.0/AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/807e3f1d8a4640489d6f757b6903dd8e/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:nativescript-optimized-with-inspector:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c33650db39ae1b53c1f848d4206c737b/nativescript-optimized-with-inspector/AndroidManifest.xml:2:1-11:12
+MERGED from [:kinvey_nativescript_sdk:] /home/stevan/.gradle/caches/transforms-2/files-2.1/df9aae7161ef2cda036ef535d965ad96/kinvey_nativescript_sdk/AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:2:1-25:12
+MERGED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:2:1-25:12
+MERGED from [:nativescript_geolocation:] /home/stevan/.gradle/caches/transforms-2/files-2.1/22b511c446ff209180865521dd38294c/nativescript_geolocation/AndroidManifest.xml:2:1-11:12
+MERGED from [:nativescript_social_share:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c2d3e17541f2e677dd7fb7a17b4c3bd3/jetified-nativescript_social_share/AndroidManifest.xml:2:1-21:12
+MERGED from [:TNSAutoComplete-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c36e7971593e22abce30ddb1d4bce322/TNSAutoComplete-release/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSCalendar-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/535040aeda4c6998cfdf68e2206f3562/TNSCalendar-release/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSChart-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/e2e3a1225012d29cad409793dbfbde20/TNSChart-release/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSDataForm-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/1db655de1f35040e008d8a81d355d1d4/TNSDataForm-release/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSGauge-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/6f951d2f505b256003fe11b4f631f1a9/TNSGauge-release/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSListView-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/088c81aa497d3db070b2f2bbfbf20948/TNSListView-release/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSSideDrawer-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/f602cd85d212ca121fc2358d66e4dfe5/TNSSideDrawer-release/AndroidManifest.xml:2:1-11:12
+MERGED from [:TNSCore-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a4d157840f272f5c4d7c78ba31050f3e/TNSCore-release/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/1a4281b28d655cc9d250a55088cfd92a/widgets-release/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/5036e040bfb2ed21141db5907dc80a84/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/17a5aaf00c7b911ced147a44b861d49d/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/564388c32085138c359dac6cb7f3f8e1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/d92e74c548111a4842462bb118fb0728/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/c4562fd65ed885f6ad4e782f0a1ddc8c/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/55c801ebe9254aadd0bc70a611ebff34/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/8cef4441aded13aed2a257520835e64a/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/d703d4fb91397ebd0fcc249b0286692c/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/fa974f7789519f660b0500bf3e2ef9d2/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/c00566a796c8bc87aa9bfe04c457a8ea/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/a2a941aa4e6ab52251306224b3bb595c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/c8ebf87c1c29c88362d4ad2f5e9fa69e/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/318bfc0e146c18ed25c3a6b2db325bf4/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/29ac96be6fb81a47a5ed35cb50bf191a/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/8ce023457c6feb6f1685f591c421bd20/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/0ce66f28f15d428e7cb22ee7b459b6ef/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/46255efc366cc1950fe34a7c472345c4/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/6de075386d20be281a87dfa1b2d6ac45/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/325d0e9e870fa4d06b24c18c9ee90ee8/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/27bc33bc5e89f584b9b261dfc907e0db/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/422cf99459cf1b57feb5f9d6575e2981/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/d83fe64bffd2c3a18b5121db5e3cda89/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/9444e3cf77d3306ef4a80ba458253a45/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/9233c21f8ab497c46d13c1cb3bad199c/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/550714910fe91d5c320a3280e553ea4f/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/0a9b612aa422320e030825edc18a2ab1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/1004b84c1a71b13cd57fe025e0cc7af9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/de0d15be3df3800b00daf51b84bb8611/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/f80f33526b8c704fdcedac1310e1ba8c/animated-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/1d7503513ba5e4492f374984c7fee3a4/animated-drawable-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/0f2567841c080682e92253b8cd2bf4b7/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/cd5d36aed726dc4ae07028f627c7d76d/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/b071614980fd824162b77c6436d0f3d9/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/01a4289756695957c26737e9dda5f917/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/086e34396f1fb6de666439f299319851/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/2fc9f04227b62fd452c881ff9dd10b69/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/ba2a0f43234a4ed1b5781a19c5718a02/soloader-0.6.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.conceal:conceal:1.1.3] /home/stevan/.gradle/caches/transforms-2/files-2.1/36c99a94339002f0232c54a89e2082b2/conceal-1.1.3/AndroidManifest.xml:7:1-16:12
+INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:3:64-98
+		INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:3:127-154
+		INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:3:99-126
+		INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:4:5-139
+	android:largeScreens
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:4:80-107
+	android:smallScreens
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:4:23-50
+	android:normalScreens
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:4:51-79
+	android:xlargeScreens
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:4:108-136
+uses-sdk
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:5-84
+INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:5-84
+INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:5-84
+MERGED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:7:5-9:41
+MERGED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/4b572913f1a424e7576b45966b745c44/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/4b572913f1a424e7576b45966b745c44/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/8a90935574f82694cec42fb7c78743b1/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/8a90935574f82694cec42fb7c78743b1/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/3bab9bb899029c23f3bc6bb6d4339d56/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/3bab9bb899029c23f3bc6bb6d4339d56/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/52503712106186570054847811294b4f/jetified-play-services-location-11.4.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/52503712106186570054847811294b4f/jetified-play-services-location-11.4.0/AndroidManifest.xml:3:5-43
+MERGED from [jp.wasabeef:fresco-processors:2.1.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/92a5157cc7e53680ff40a12aec650332/fresco-processors-2.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:fresco-processors:2.1.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/92a5157cc7e53680ff40a12aec650332/fresco-processors-2.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e03b6edff34481a1d9c6a5767c16cfbd/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e03b6edff34481a1d9c6a5767c16cfbd/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/dca3fd0887062297fd1d3c6946aaa3bf/animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/dca3fd0887062297fd1d3c6946aaa3bf/animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/ac922daef181581ca41118461ecc252e/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/ac922daef181581ca41118461ecc252e/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.orhanobut:hawk:2.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/3fb20293bab20d6c379c4d7a7ba3936c/hawk-2.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.orhanobut:hawk:2.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/3fb20293bab20d6c379c4d7a7ba3936c/hawk-2.0.1/AndroidManifest.xml:6:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/d870cb23017dba92c403b07d3cb52354/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/d870cb23017dba92c403b07d3cb52354/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/cebeb8a9d9ddebdb3ed2da53e0535524/jetified-play-services-tasks-11.4.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/cebeb8a9d9ddebdb3ed2da53e0535524/jetified-play-services-tasks-11.4.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e6fac359cc7ae06c7d2073459e0ec266/jetified-play-services-basement-11.4.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e6fac359cc7ae06c7d2073459e0ec266/jetified-play-services-basement-11.4.0/AndroidManifest.xml:17:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/807e3f1d8a4640489d6f757b6903dd8e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/807e3f1d8a4640489d6f757b6903dd8e/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:nativescript-optimized-with-inspector:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c33650db39ae1b53c1f848d4206c737b/nativescript-optimized-with-inspector/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized-with-inspector:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c33650db39ae1b53c1f848d4206c737b/nativescript-optimized-with-inspector/AndroidManifest.xml:7:5-9:41
+MERGED from [:kinvey_nativescript_sdk:] /home/stevan/.gradle/caches/transforms-2/files-2.1/df9aae7161ef2cda036ef535d965ad96/kinvey_nativescript_sdk/AndroidManifest.xml:7:5-47
+MERGED from [:kinvey_nativescript_sdk:] /home/stevan/.gradle/caches/transforms-2/files-2.1/df9aae7161ef2cda036ef535d965ad96/kinvey_nativescript_sdk/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:8:5-47
+MERGED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:8:5-47
+MERGED from [:nativescript_geolocation:] /home/stevan/.gradle/caches/transforms-2/files-2.1/22b511c446ff209180865521dd38294c/nativescript_geolocation/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_geolocation:] /home/stevan/.gradle/caches/transforms-2/files-2.1/22b511c446ff209180865521dd38294c/nativescript_geolocation/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_social_share:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c2d3e17541f2e677dd7fb7a17b4c3bd3/jetified-nativescript_social_share/AndroidManifest.xml:7:5-47
+MERGED from [:nativescript_social_share:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c2d3e17541f2e677dd7fb7a17b4c3bd3/jetified-nativescript_social_share/AndroidManifest.xml:7:5-47
+MERGED from [:TNSAutoComplete-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c36e7971593e22abce30ddb1d4bce322/TNSAutoComplete-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSAutoComplete-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c36e7971593e22abce30ddb1d4bce322/TNSAutoComplete-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCalendar-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/535040aeda4c6998cfdf68e2206f3562/TNSCalendar-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCalendar-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/535040aeda4c6998cfdf68e2206f3562/TNSCalendar-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSChart-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/e2e3a1225012d29cad409793dbfbde20/TNSChart-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSChart-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/e2e3a1225012d29cad409793dbfbde20/TNSChart-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSDataForm-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/1db655de1f35040e008d8a81d355d1d4/TNSDataForm-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSDataForm-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/1db655de1f35040e008d8a81d355d1d4/TNSDataForm-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSGauge-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/6f951d2f505b256003fe11b4f631f1a9/TNSGauge-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSGauge-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/6f951d2f505b256003fe11b4f631f1a9/TNSGauge-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSListView-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/088c81aa497d3db070b2f2bbfbf20948/TNSListView-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSListView-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/088c81aa497d3db070b2f2bbfbf20948/TNSListView-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSSideDrawer-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/f602cd85d212ca121fc2358d66e4dfe5/TNSSideDrawer-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSSideDrawer-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/f602cd85d212ca121fc2358d66e4dfe5/TNSSideDrawer-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a4d157840f272f5c4d7c78ba31050f3e/TNSCore-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:TNSCore-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a4d157840f272f5c4d7c78ba31050f3e/TNSCore-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/1a4281b28d655cc9d250a55088cfd92a/widgets-release/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/1a4281b28d655cc9d250a55088cfd92a/widgets-release/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/5036e040bfb2ed21141db5907dc80a84/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/5036e040bfb2ed21141db5907dc80a84/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/17a5aaf00c7b911ced147a44b861d49d/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/17a5aaf00c7b911ced147a44b861d49d/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/564388c32085138c359dac6cb7f3f8e1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/564388c32085138c359dac6cb7f3f8e1/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/d92e74c548111a4842462bb118fb0728/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/d92e74c548111a4842462bb118fb0728/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/c4562fd65ed885f6ad4e782f0a1ddc8c/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/c4562fd65ed885f6ad4e782f0a1ddc8c/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/55c801ebe9254aadd0bc70a611ebff34/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/55c801ebe9254aadd0bc70a611ebff34/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/8cef4441aded13aed2a257520835e64a/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/8cef4441aded13aed2a257520835e64a/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/d703d4fb91397ebd0fcc249b0286692c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/d703d4fb91397ebd0fcc249b0286692c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/fa974f7789519f660b0500bf3e2ef9d2/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/fa974f7789519f660b0500bf3e2ef9d2/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/c00566a796c8bc87aa9bfe04c457a8ea/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/c00566a796c8bc87aa9bfe04c457a8ea/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/a2a941aa4e6ab52251306224b3bb595c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/a2a941aa4e6ab52251306224b3bb595c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/c8ebf87c1c29c88362d4ad2f5e9fa69e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/c8ebf87c1c29c88362d4ad2f5e9fa69e/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/318bfc0e146c18ed25c3a6b2db325bf4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/318bfc0e146c18ed25c3a6b2db325bf4/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/29ac96be6fb81a47a5ed35cb50bf191a/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/29ac96be6fb81a47a5ed35cb50bf191a/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/8ce023457c6feb6f1685f591c421bd20/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/8ce023457c6feb6f1685f591c421bd20/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/0ce66f28f15d428e7cb22ee7b459b6ef/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/0ce66f28f15d428e7cb22ee7b459b6ef/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/46255efc366cc1950fe34a7c472345c4/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/46255efc366cc1950fe34a7c472345c4/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/6de075386d20be281a87dfa1b2d6ac45/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/6de075386d20be281a87dfa1b2d6ac45/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/325d0e9e870fa4d06b24c18c9ee90ee8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/325d0e9e870fa4d06b24c18c9ee90ee8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/27bc33bc5e89f584b9b261dfc907e0db/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/27bc33bc5e89f584b9b261dfc907e0db/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/422cf99459cf1b57feb5f9d6575e2981/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/422cf99459cf1b57feb5f9d6575e2981/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/d83fe64bffd2c3a18b5121db5e3cda89/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/d83fe64bffd2c3a18b5121db5e3cda89/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/9444e3cf77d3306ef4a80ba458253a45/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/9444e3cf77d3306ef4a80ba458253a45/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/9233c21f8ab497c46d13c1cb3bad199c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/9233c21f8ab497c46d13c1cb3bad199c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/550714910fe91d5c320a3280e553ea4f/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/550714910fe91d5c320a3280e553ea4f/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/0a9b612aa422320e030825edc18a2ab1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/0a9b612aa422320e030825edc18a2ab1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/1004b84c1a71b13cd57fe025e0cc7af9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/1004b84c1a71b13cd57fe025e0cc7af9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/de0d15be3df3800b00daf51b84bb8611/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/de0d15be3df3800b00daf51b84bb8611/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/f80f33526b8c704fdcedac1310e1ba8c/animated-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/f80f33526b8c704fdcedac1310e1ba8c/animated-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/1d7503513ba5e4492f374984c7fee3a4/animated-drawable-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/1d7503513ba5e4492f374984c7fee3a4/animated-drawable-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/0f2567841c080682e92253b8cd2bf4b7/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/0f2567841c080682e92253b8cd2bf4b7/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/cd5d36aed726dc4ae07028f627c7d76d/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/cd5d36aed726dc4ae07028f627c7d76d/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/b071614980fd824162b77c6436d0f3d9/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/b071614980fd824162b77c6436d0f3d9/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/01a4289756695957c26737e9dda5f917/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/01a4289756695957c26737e9dda5f917/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/086e34396f1fb6de666439f299319851/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/086e34396f1fb6de666439f299319851/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/2fc9f04227b62fd452c881ff9dd10b69/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/2fc9f04227b62fd452c881ff9dd10b69/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/ba2a0f43234a4ed1b5781a19c5718a02/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/ba2a0f43234a4ed1b5781a19c5718a02/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] /home/stevan/.gradle/caches/transforms-2/files-2.1/36c99a94339002f0232c54a89e2082b2/conceal-1.1.3/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] /home/stevan/.gradle/caches/transforms-2/files-2.1/36c99a94339002f0232c54a89e2082b2/conceal-1.1.3/AndroidManifest.xml:12:5-14:41
+INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:5-84
+INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:5-84
+	android:targetSdkVersion
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:42-81
+		INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:15-41
+		INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml
+		MERGED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:15-41
+		MERGED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:15-41
+		MERGED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:15-41
+		MERGED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:15-41
+		MERGED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:15-41
+		INJECTED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:11:5-67
+MERGED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:11:5-67
+MERGED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:10:5-67
+MERGED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:12:5-80
+MERGED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:13:5-81
+MERGED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:13:5-81
+MERGED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:11:5-81
+MERGED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:5-18:19
+MERGED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:16:5-22:19
+MERGED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/4b572913f1a424e7576b45966b745c44/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/4b572913f1a424e7576b45966b745c44/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/52503712106186570054847811294b4f/jetified-play-services-location-11.4.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/52503712106186570054847811294b4f/jetified-play-services-location-11.4.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/cebeb8a9d9ddebdb3ed2da53e0535524/jetified-play-services-tasks-11.4.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/cebeb8a9d9ddebdb3ed2da53e0535524/jetified-play-services-tasks-11.4.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e6fac359cc7ae06c7d2073459e0ec266/jetified-play-services-basement-11.4.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e6fac359cc7ae06c7d2073459e0ec266/jetified-play-services-basement-11.4.0/AndroidManifest.xml:19:5-21:19
+MERGED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:14:5-23:19
+MERGED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:14:5-23:19
+MERGED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:12:5-23:19
+MERGED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:12:5-23:19
+MERGED from [:nativescript_social_share:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c2d3e17541f2e677dd7fb7a17b4c3bd3/jetified-nativescript_social_share/AndroidManifest.xml:9:5-19:19
+MERGED from [:nativescript_social_share:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c2d3e17541f2e677dd7fb7a17b4c3bd3/jetified-nativescript_social_share/AndroidManifest.xml:9:5-19:19
+MERGED from [:widgets-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/1a4281b28d655cc9d250a55088cfd92a/widgets-release/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /home/stevan/.gradle/caches/transforms-2/files-2.1/1a4281b28d655cc9d250a55088cfd92a/widgets-release/AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.core:core:1.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/0ce66f28f15d428e7cb22ee7b459b6ef/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/0ce66f28f15d428e7cb22ee7b459b6ef/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/46255efc366cc1950fe34a7c472345c4/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/46255efc366cc1950fe34a7c472345c4/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/ba2a0f43234a4ed1b5781a19c5718a02/soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/ba2a0f43234a4ed1b5781a19c5718a02/soloader-0.6.0/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/0ce66f28f15d428e7cb22ee7b459b6ef/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:122-154
+	android:icon
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:92-121
+	android:allowBackup
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:65-91
+	android:theme
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:155-186
+	android:name
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:18-64
+activity#com.tns.NativeScriptActivity
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:10:9-16:20
+	android:label
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:10:63-108
+	android:configChanges
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:10:109-170
+	android:theme
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:10:171-211
+	android:name
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:10:19-62
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:11:13-96
+	android:resource
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:11:59-93
+	android:name
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:11:24-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:14:27-74
+activity#com.tns.ErrorReportActivity
+ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:17:9-64
+	android:name
+		ADDED from /home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:17:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:14:5-68
+MERGED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:12:5-68
+MERGED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:14:22-65
+service#net.gotev.uploadservice.UploadService
+ADDED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:17:9-21:19
+	android:enabled
+		ADDED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:19:13-35
+	android:exported
+		ADDED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:18:13-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e6fac359cc7ae06c7d2073459e0ec266/jetified-play-services-basement-11.4.0/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e6fac359cc7ae06c7d2073459e0ec266/jetified-play-services-basement-11.4.0/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e6fac359cc7ae06c7d2073459e0ec266/jetified-play-services-basement-11.4.0/AndroidManifest.xml:20:20-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:kinvey_nativescript_sdk:] /home/stevan/.gradle/caches/transforms-2/files-2.1/df9aae7161ef2cda036ef535d965ad96/kinvey_nativescript_sdk/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:kinvey_nativescript_sdk:] /home/stevan/.gradle/caches/transforms-2/files-2.1/df9aae7161ef2cda036ef535d965ad96/kinvey_nativescript_sdk/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:9:22-74
+service#com.alexbbb.uploadservice.UploadService
+ADDED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:15:9-22:19
+	android:enabled
+		ADDED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:17:13-35
+	android:exported
+		ADDED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:16:13-67
+intent-filter#action:name:org.nativescript.imagepicker.uploadservice.action.upload
+ADDED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:19:13-21:29
+action#org.nativescript.imagepicker.uploadservice.action.upload
+ADDED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:20:17-99
+	android:name
+		ADDED from [:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:20:25-96
+uses-permission#android.permission.CAMERA
+ADDED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:10:22-62
+provider#androidx.core.content.FileProvider
+ADDED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:13:9-22:20
+MERGED from [:nativescript_social_share:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c2d3e17541f2e677dd7fb7a17b4c3bd3/jetified-nativescript_social_share/AndroidManifest.xml:10:9-18:20
+MERGED from [:nativescript_social_share:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c2d3e17541f2e677dd7fb7a17b4c3bd3/jetified-nativescript_social_share/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:14:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:18:13-21:52
+MERGED from [:nativescript_social_share:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c2d3e17541f2e677dd7fb7a17b4c3bd3/jetified-nativescript_social_share/AndroidManifest.xml:15:13-17:58
+MERGED from [:nativescript_social_share:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c2d3e17541f2e677dd7fb7a17b4c3bd3/jetified-nativescript_social_share/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:20:17-55
+		REJECTED from [:nativescript_social_share:] /home/stevan/.gradle/caches/transforms-2/files-2.1/c2d3e17541f2e677dd7fb7a17b4c3bd3/jetified-nativescript_social_share/AndroidManifest.xml:17:17-55
+	tools:replace
+		ADDED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:21:17-49
+	android:name
+		ADDED from [:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:19:17-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:nativescript_geolocation:] /home/stevan/.gradle/caches/transforms-2/files-2.1/22b511c446ff209180865521dd38294c/nativescript_geolocation/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:nativescript_geolocation:] /home/stevan/.gradle/caches/transforms-2/files-2.1/22b511c446ff209180865521dd38294c/nativescript_geolocation/AndroidManifest.xml:9:22-76

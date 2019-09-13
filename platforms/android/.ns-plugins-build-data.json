@@ -1,0 +1,69 @@
+{
+	"kinvey-nativescript-sdk": {
+		"/home/stevan/Desktop/ZG/node_modules/kinvey-nativescript-sdk/platforms/android/AndroidManifest.default.xml": "cce475b64081265624987342c6d91c2a891a49dc",
+		"/home/stevan/Desktop/ZG/node_modules/kinvey-nativescript-sdk/platforms/android/AndroidManifest.mic.xml": "e737daf7c176fccaaef98265e11610e876b4a328",
+		"/home/stevan/Desktop/ZG/node_modules/kinvey-nativescript-sdk/platforms/android/AndroidManifest.xml": "cce475b64081265624987342c6d91c2a891a49dc",
+		"/home/stevan/Desktop/ZG/node_modules/kinvey-nativescript-sdk/platforms/android/include.gradle": "0c9b3c2cbdf0c2e5b325310744bdc30a7dd8e7aa"
+	},
+	"nativescript-background-http": {
+		"/home/stevan/Desktop/ZG/node_modules/kinvey-nativescript-sdk/node_modules/nativescript-background-http/platforms/android/include.gradle": "52e678f0cb90a372cd671ff6445a1b2d3d26c472",
+		"/home/stevan/Desktop/ZG/node_modules/kinvey-nativescript-sdk/node_modules/nativescript-background-http/platforms/android/nativescript_background_http.aar": "990fab141fc84295d8522140b03e4e19e6b0bbf4"
+	},
+	"nativescript-camera": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-camera/platforms/android/nativescript_camera.aar": "076643dd1be5b20235184a9c65703fa02a930b9b"
+	},
+	"nativescript-geolocation": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-geolocation/platforms/android/include.gradle": "a9ad7f439204a251541921d75e1f75ae6dd832c2",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-geolocation/platforms/android/nativescript_geolocation.aar": "b2ab9086897001b3f93ebe3d0b65dbafc010807c"
+	},
+	"nativescript-image": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-image/platforms/android/include.gradle": "d97d7ea9381792b3344544ca1361ad508a986236"
+	},
+	"nativescript-imagepicker": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-imagepicker/platforms/android/README.md": "45f2f63427be0a461a7e2dfd5ff0ad5bab64068f"
+	},
+	"nativescript-social-share": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-social-share/platforms/android/nativescript_social_share.aar": "cf8a832dbf68b3c28c104617db0285c4105961c8"
+	},
+	"nativescript-ui-autocomplete": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-autocomplete/platforms/android/include.gradle": "f3cee71f7a1cfc3f567bb82cf49fe10a8cccd33a",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-autocomplete/platforms/android/typings/autocomplete.d.ts": "b28897ff3cd671de6e1cbce383b948ed90a5df04",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-autocomplete/platforms/android/TNSAutoComplete-release.aar": "9383db03ea86b279cf521c2205867a873397a525"
+	},
+	"nativescript-ui-calendar": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-calendar/platforms/android/typings/calendar.d.ts": "31bf824396f956c7d699c50f72170ba00fdb5cd2",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-calendar/platforms/android/TNSCalendar-release.aar": "3f4c4f7cf98e65d8a278b98835694a1997316420"
+	},
+	"nativescript-ui-chart": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-chart/platforms/android/include.gradle": "b86fa9eafbccd8683d2c21aa1f83308a4bbacf68",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-chart/platforms/android/typings/chart.d.ts": "5fe751438a7baaf6296586f0a525be5d1e6b58a8",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-chart/platforms/android/TNSChart-release.aar": "80f3fb33a9a3c661a75180d4bd9773fbb4dbb394"
+	},
+	"nativescript-ui-dataform": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-dataform/platforms/android/TNSDataForm-release.aar": "f12a9038992ef2d14a26c9b249b5fa73967f7dad",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-dataform/platforms/android/typings/dataform.d.ts": "4e9ec450d20ae85cedd03a2122f492b136e4e22f"
+	},
+	"nativescript-ui-gauge": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-gauge/platforms/android/TNSGauge-release.aar": "65fde05bd0d7846096e14f2dac0a02f91a873b7c",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-gauge/platforms/android/typings/gauge.d.ts": "ae7cf8821f8c4e0d042b36e74ddadf7221d75797"
+	},
+	"nativescript-ui-listview": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-listview/platforms/android/include.gradle": "47ffe675113a982585b2386750b2d4305b66b6ca",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-listview/platforms/android/typings/listview.d.ts": "cfe568cc7a9735ab328356785be9ff94f6d5dfa9",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-listview/platforms/android/TNSListView-release.aar": "4d5af3ecb16ba6d74cf54e30b17c6deff912b7c9"
+	},
+	"nativescript-ui-sidedrawer": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-sidedrawer/platforms/android/TNSSideDrawer-release.aar": "e6e4d527ff85743c270768018b9ea720ec5b9dda",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-sidedrawer/platforms/android/typings/sidedrawer.d.ts": "8256a2295125597755fe6a6faee866b0750e65f2"
+	},
+	"nativescript-secure-storage": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-secure-storage/platforms/android/include.gradle": "b2f8625f98afaa063a700e38433054494319e6b0"
+	},
+	"nativescript-ui-core": {
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-core/platforms/android/typings/core.d.ts": "5c032652edfa1719ef8c8190fc0f66d3b1c313c2",
+		"/home/stevan/Desktop/ZG/node_modules/nativescript-ui-core/platforms/android/TNSCore-release.aar": "0e2fe0b867821ad56b8f0b9c8ac4c90f4c399e3c"
+	},
+	"tns-core-modules-widgets": {
+		"/home/stevan/Desktop/ZG/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "0ff68ea2dea492d8ca6c2803f5700f1872126431"
+	}
+}

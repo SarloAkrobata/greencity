@@ -1,0 +1,158 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.nativescript.playvue"
+4    android:versionCode="10000"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+7-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:5-84
+8        android:minSdkVersion="21"
+8-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:15-41
+9        android:targetSdkVersion="28" />
+9-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:5:42-81
+10
+11    <supports-screens
+11-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:4:5-139
+12        android:largeScreens="true"
+12-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:4:80-107
+13        android:normalScreens="true"
+13-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:4:51-79
+14        android:smallScreens="true"
+14-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:4:23-50
+15        android:xlargeScreens="true" />
+15-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:4:108-136
+16
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:6:5-67
+17-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:6:22-64
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+18-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:7:5-80
+18-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:7:22-77
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:8:5-81
+19-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:8:22-78
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->[net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:14:5-68
+20-->[net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:14:22-65
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[:kinvey_nativescript_sdk:] /home/stevan/.gradle/caches/transforms-2/files-2.1/df9aae7161ef2cda036ef535d965ad96/kinvey_nativescript_sdk/AndroidManifest.xml:9:5-79
+21-->[:kinvey_nativescript_sdk:] /home/stevan/.gradle/caches/transforms-2/files-2.1/df9aae7161ef2cda036ef535d965ad96/kinvey_nativescript_sdk/AndroidManifest.xml:9:22-76
+22    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+22-->[:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:9:5-77
+22-->[:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:9:22-74
+23    <uses-permission android:name="android.permission.CAMERA" />
+23-->[:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:10:5-65
+23-->[:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:10:22-62
+24    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+24-->[:nativescript_geolocation:] /home/stevan/.gradle/caches/transforms-2/files-2.1/22b511c446ff209180865521dd38294c/nativescript_geolocation/AndroidManifest.xml:9:5-79
+24-->[:nativescript_geolocation:] /home/stevan/.gradle/caches/transforms-2/files-2.1/22b511c446ff209180865521dd38294c/nativescript_geolocation/AndroidManifest.xml:9:22-76
+25
+26    <application
+26-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:5-18:19
+27        android:name="com.tns.NativeScriptApplication"
+27-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:18-64
+28        android:allowBackup="true"
+28-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:65-91
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.0.1] /home/stevan/.gradle/caches/transforms-2/files-2.1/0ce66f28f15d428e7cb22ee7b459b6ef/core-1.0.1/AndroidManifest.xml:22:18-86
+30        android:debuggable="true"
+31        android:icon="@drawable/icon"
+31-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:92-121
+32        android:label="@string/app_name"
+32-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:122-154
+33        android:theme="@style/AppTheme" >
+33-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:9:155-186
+34        <activity
+34-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:10:9-16:20
+35            android:name="com.tns.NativeScriptActivity"
+35-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:10:19-62
+36            android:configChanges="keyboardHidden|orientation|screenSize"
+36-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:10:109-170
+37            android:label="@string/title_activity_kimera"
+37-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:10:63-108
+38            android:theme="@style/LaunchScreenTheme" >
+38-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:10:171-211
+39            <meta-data
+39-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:11:13-96
+40                android:name="SET_THEME_ON_LAUNCH"
+40-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:11:24-58
+41                android:resource="@style/AppTheme" />
+41-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:11:59-93
+42
+43            <intent-filter>
+43-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:12:13-15:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:13:17-69
+44-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:13:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:14:17-77
+46-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:14:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity android:name="com.tns.ErrorReportActivity" />
+49-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:17:9-64
+49-->/home/stevan/Desktop/ZG/platforms/android/app/src/main/AndroidManifest.xml:17:19-61
+50
+51        <service
+51-->[net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:17:9-21:19
+52            android:name="net.gotev.uploadservice.UploadService"
+52-->[net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:18:13-65
+53            android:enabled="true"
+53-->[net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:19:13-35
+54            android:exported="false" >
+54-->[net.gotev:uploadservice:3.4.2] /home/stevan/.gradle/caches/transforms-2/files-2.1/3d55a907ebda6e72245bf202163601aa/jetified-uploadservice-3.4.2/AndroidManifest.xml:20:13-37
+55        </service>
+56
+57        <activity
+57-->[com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:19:9-172
+58            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+58-->[com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:19:19-85
+59            android:exported="false"
+59-->[com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:19:146-170
+60            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+60-->[com.google.android.gms:play-services-base:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/aaf4d5abe469be50ee376225cc3f206c/jetified-play-services-base-11.4.0/AndroidManifest.xml:19:86-145
+61
+62        <meta-data
+62-->[com.google.android.gms:play-services-basement:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e6fac359cc7ae06c7d2073459e0ec266/jetified-play-services-basement-11.4.0/AndroidManifest.xml:20:9-121
+63            android:name="com.google.android.gms.version"
+63-->[com.google.android.gms:play-services-basement:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e6fac359cc7ae06c7d2073459e0ec266/jetified-play-services-basement-11.4.0/AndroidManifest.xml:20:20-65
+64            android:value="@integer/google_play_services_version" />
+64-->[com.google.android.gms:play-services-basement:11.4.0] /home/stevan/.gradle/caches/transforms-2/files-2.1/e6fac359cc7ae06c7d2073459e0ec266/jetified-play-services-basement-11.4.0/AndroidManifest.xml:20:66-119
+65
+66        <service
+66-->[:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:15:9-22:19
+67            android:name="com.alexbbb.uploadservice.UploadService"
+67-->[:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:16:13-67
+68            android:enabled="true"
+68-->[:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:17:13-35
+69            android:exported="false" >
+69-->[:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:18:13-37
+70            <intent-filter>
+70-->[:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:19:13-21:29
+71                <action android:name="org.nativescript.imagepicker.uploadservice.action.upload" />
+71-->[:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:20:17-99
+71-->[:nativescript_background_http:] /home/stevan/.gradle/caches/transforms-2/files-2.1/a01fdb4e30b5004c9d974996e8f5c936/nativescript_background_http/AndroidManifest.xml:20:25-96
+72            </intent-filter>
+73        </service>
+74
+75        <provider
+75-->[:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:13:9-22:20
+76            android:name="androidx.core.content.FileProvider"
+76-->[:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:14:13-62
+77            android:authorities="org.nativescript.playvue.provider"
+77-->[:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:15:13-60
+78            android:exported="false"
+78-->[:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:16:13-37
+79            android:grantUriPermissions="true" >
+79-->[:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:17:13-47
+80            <meta-data
+80-->[:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:18:13-21:52
+81                android:name="android.support.FILE_PROVIDER_PATHS"
+81-->[:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:19:17-67
+82                android:resource="@xml/provider_paths" />
+82-->[:nativescript_camera:] /home/stevan/.gradle/caches/transforms-2/files-2.1/d5984b3b05477be648253ed883e6f427/jetified-nativescript_camera/AndroidManifest.xml:20:17-55
+83        </provider>
+84    </application>
+85
+86</manifest>

@@ -1,0 +1,4 @@
+/home/stevan/Desktop/ZG/platforms/android/app/src/main/assets/app/tns-java-classes.js
+/home/stevan/Desktop/ZG/platforms/android/app/src/main/assets/app/runtime.js
+/home/stevan/Desktop/ZG/platforms/android/app/src/main/assets/app/bundle.js
+/home/stevan/Desktop/ZG/platforms/android/app/src/main/assets/app/vendor.js
