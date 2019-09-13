@@ -15,9 +15,9 @@
                     <!-- Prosledjen username sa Home -->
                     <!-- <Label :text="username" class="title bold" /> -->
                     <ScrollView id="scroll" orientation="vertical" isEnabled="true"
-                        width="100%" height="100%" backgroundColor="white">
+                        width="100%" height="1450" backgroundColor="white">
 
-                        <WrapLayout width="100%" height="1300"
+                        <WrapLayout width="100%" height="1450"
                             backgroundColor="white">
 
                             <Image src="~/assets/images/problems/1.png" class="problem"
@@ -48,7 +48,7 @@
                     <TextView editable="false">
                         <FormattedString>
                             <Span text="Valjevo je jedan od retkih gradova koji ima dve čaršije. I to jednu naspram druge, kao simboličan kontrast Istoka i Zapada
-i njihovog vekovnog sudaranja baš na teritoriji Srbije. Deli ih reka Kolubara. 
+i njihovog vekovnog sudaranja baš na teritoriji Srbije. Deli ih reka Kolubara.
 
 Uz njenu desnu obalu se prostire Tešnjar, stara čašija orijentlnog stila. Male zanatske radnjice, niske kućice i kaldrma čine da Tešnjar izgleda kao da je zaspao u
 doba turskih paša i srpskih ustanika. Sve dok ih avgustom ne probude “Tešnjarske večeri” u kojima ova čaršija u nekoliko

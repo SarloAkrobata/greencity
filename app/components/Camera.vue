@@ -130,6 +130,10 @@
                 });
             },
             selectPicture() {
+                if (this.paths.length === 3) {
+                    this.errors.push("3 Fotografije su dozvoljene");
+                    return;
+                }
                 let context = imagepicker.create({
                     mode: "multiple"
                 });
@@ -152,6 +156,10 @@
                     });
             },
             takePicture() {
+                if (this.paths.length === 3) {
+                    this.errors.push("3 Fotografije su dozvoljene");
+                    return;
+                }
                 camera
                     .requestPermissions()
                     .then(() => {
@@ -216,7 +224,7 @@
                     },
                     {
                         name: "postContent",
-                        value: this.issue.opis + this.address
+                        value: this.issue.opis
                     },
                     {
                         name: "postTitle",
@@ -247,7 +255,7 @@
                     this.$navigateTo(Dashboard);
                     alert({
                         title: "Zeleni Grad",
-                        message: "Vaša prijava je prosleđena nadležnim institucijama. Dalje reševanje problema pratite na web sajtu www.zelenigrad.rs. Sve vaše prijave možete pronaći ako u aplikaciji dodirnete dugme meni pa Moje prijave.",
+                        message: "Vaša prijava je uspešno prosledjena. Nakon odobravanja administratora prijava će biti prosledjena nadležnim institucijama. Dalje rešavanje Vaše prijave možete pratiti na web portalu www.zelenigrad.rs. u okviru izabrane kategorije problema. Sve Vaše prijave možete pronaći u sekciji Moje prijave u okviru padajućeg menija. Hvala Vam na izdvojenom vremenu.",
                         okButtonText: "Ok "
                     });
                 });
