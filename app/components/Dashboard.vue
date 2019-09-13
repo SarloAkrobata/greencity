@@ -61,7 +61,7 @@ gradskog života, ali kao i Tešnjar, pozornica za mnoga kulturno-umetnička de�
                         </FormattedString>
                     </TextView>
                 </TabViewItem>
-                <TabViewItem title="O ZG">
+                <TabViewItem title="O aplikaciji">
                     <TextView editable="false">
                         <FormattedString>
                             <Span text="Aplikacija predstavlja servis za građanstvo putem kog se na jednostavan način mogu prijaviti komunalni problemi u gradu i" />
